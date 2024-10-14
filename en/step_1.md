@@ -44,7 +44,7 @@ Explore this project [here](https://rpf.io/rpibuzzer){:target="_blank"}.
 
 Detect movement using a motion sensor and Raspberry Pi to automate and secure your environment.
 
-Explore this project [here](https://rpf.io/rpimotion){:target="_blank"}.
+Explore this project [here](https://rpf.io/rpipir){:target="_blank"}.
 --- /task ---
 
 --- task ---
@@ -52,7 +52,7 @@ Explore this project [here](https://rpf.io/rpimotion){:target="_blank"}.
 
 Create interactive projects by adding buttons and switches to your Raspberry Pi setup.
 
-Explore this project [here](https://rpf.io/rpiswitches){:target="_blank"}.
+Explore this project [here](https://rpf.io/rpibutton){:target="_blank"}.
 --- /task ---
 
 --- task ---
