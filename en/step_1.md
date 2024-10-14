@@ -4,7 +4,7 @@
 
 Discover how to control motors with your Raspberry Pi and bring your creations to life!
 
-Explore this project [here](https://rpf.io/rpimotors){:target="_blank"}.
+Explore this project [here](https://rpf.io/rpimotor){:target="_blank"}.
 --- /task ---
 
 --- task ---
