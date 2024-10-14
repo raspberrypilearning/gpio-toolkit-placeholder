@@ -1,59 +1,72 @@
-## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+--- task ---
+## Motors
 
-### What you will make
+Discover how to control motors with your Raspberry Pi and bring your creations to life!
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Explore this project [here](https://rpf.io/rpimotors){:target="_blank"}.
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
+## Traffic Lights
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Build your own traffic light system using LEDs and a Raspberry Pi to learn about GPIO control.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Explore this project [here](https://rpf.io/trafficlight){:target="_blank"}.
+--- /task ---
 
-+ A computer or tablet capable of running Scratch 3
+--- task ---
+## Light Dependent Resistor
 
-### Software
+Learn how to use a light-dependent resistor to sense light levels and trigger your Raspberry Pi projects.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Explore this project [here](https://rpf.io/rpildr){:target="_blank"}.
+--- /task ---
 
-### Downloads
+--- task ---
+## Ultrasonic Distance Sensor
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Measure distances with ultrasonic sensors and a Raspberry Pi to make interactive, responsive systems.
 
---- /collapse ---
+Explore this project [here](https://rpf.io/rpiuds){:target="_blank"}.
+--- /task ---
 
---- collapse ---
----
-title: What you will learn
----
+--- task ---
+## Buzzers
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+Add sound to your projects by learning to control buzzers with your Raspberry Pi.
 
---- /collapse ---
+Explore this project [here](https://rpf.io/rpibuzzer){:target="_blank"}.
+--- /task ---
 
---- collapse ---
----
-title: Additional information for educators
----
+--- task ---
+## Motion Sensor
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+Detect movement using a motion sensor and Raspberry Pi to automate and secure your environment.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+Explore this project [here](https://rpf.io/rpimotion){:target="_blank"}.
+--- /task ---
 
---- /collapse ---
+--- task ---
+## buttons and switches
+
+Create interactive projects by adding buttons and switches to your Raspberry Pi setup.
+
+Explore this project [here](https://rpf.io/rpiswitches){:target="_blank"}.
+--- /task ---
+
+--- task ---
+## control an LED
+
+Master the basics of electronics by controlling LEDs with your Raspberry Pi’s GPIO pins.
+
+Explore this project [here](https://rpf.io/rpiled){:target="_blank"}.
+--- /task ---
+
+--- task ---
+## Analogue Digital Converter
+
+Learn to convert analog signals into digital data for your Raspberry Pi projects using an ADC.
+
+Explore this project [here](https://rpf.io/rpiadc){:target="_blank"}.
+--- /task ---
