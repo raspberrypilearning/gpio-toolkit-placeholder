@@ -48,7 +48,7 @@ Explore this project [here](https://rpf.io/rpipir){:target="_blank"}.
 --- /task ---
 
 --- task ---
-## buttons and switches
+## Buttons and switches
 
 Create interactive projects by adding buttons and switches to your Raspberry Pi setup.
 
@@ -56,7 +56,7 @@ Explore this project [here](https://rpf.io/rpibutton){:target="_blank"}.
 --- /task ---
 
 --- task ---
-## control an LED
+## Control an LED
 
 Master the basics of electronics by controlling LEDs with your Raspberry Pi’s GPIO pins.
 
